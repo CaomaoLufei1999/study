@@ -2,7 +2,8 @@
 * 面试题 https://www.aliyundrive.com/s/S6gsGY3hwxp 提取码 hd96
 * 编程软件 https://www.aliyundrive.com/s/G8TkdEDBmmt 提取码  8w3f
 * 电子书大全 http://www.aliyundrive.com/s/dHXtSdYqEAt 提取码 o2p9
-* Java入门学习路线 https://www.aliyundrive.com/s/ALy7KcQyoKE 提取码 ws61ddd
+* Java入门学习路线 https://www.aliyundrive.com/s/ALy7KcQyoKE 提取码 ws61ddd 
+* Java入门学习路线在线帖子：https://bbs.csdn.net/topics/602714169
 * 左神算法训练营学习视频：https://www.aliyundrive.com/s/CMftE75xeJC 提取码 4m3f
 * 算法面试专题视频课程：https://www.aliyundrive.com/s/qiJgSTuBFx7 提取码 9r9w
 * 玩转算法面试Leetcode真题分类讲解视频：https://www.aliyundrive.com/s/D3UhbVbxF3y 提取码 ix20
